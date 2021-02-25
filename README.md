@@ -1,2 +1,9 @@
 # english-project
-A group project in english 
+Purpose : 
+Content : 
+
+
+
+Help to translate :
+https://www.wordreference.com/fr/
+https://www.linguee.fr/
